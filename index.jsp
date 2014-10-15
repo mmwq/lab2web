@@ -18,7 +18,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
   </head>
-  //b2
+  //b2 C4
   <body>
     Welcome to my Book Database! <br>
    <a href="login.jsp">login</a>to continue<br/>
